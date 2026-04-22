@@ -2,24 +2,31 @@
 
 ## Logline
 
-A mortal girl becomes the monster the gods need her to be — and learns, too late, that the only story left to her is the one told by the man who kills her.
+Tre systrar berättar med en röst hur den yngsta blev till det gudarna behövde — tills rösten inte längre räcker.
 
-## One-paragraph pitch
+## En paragraf
 
-Medusa, a priestess of Athena, tells the story of her own life from the cave where she waits for the hero she knows is coming. She was a girl, once; then a favourite of a goddess; then, after a night in the temple she does not have the words to describe, a thing that turned men to stone. Her sisters remain with her, immortal and tireless. She is not. She has learned to love the weight of her own ruin — and to recognise, in Perseus's footfall on the shore, the shape of a mercy she will not refuse.
+Medusa berättar sitt liv i presens, i plural. "Vi" är hon och hennes systrar: Stheno, Euryale, och flickan som kan dö. De växer upp i en grotta under en far som inte är far. Hon sänds till Athenas tempel. Något sker där som aldrig beskrivs rakt. Hon förvandlas. Systrarna följer med västerut. Männen kommer och blir sten. En gång kommer någon som inte vänder sig bort. Sedan kommer Perseus. I sista kapitlet bryts vi-rösten, och Medusa talar för första gången som "jag" — efter att huvudet redan är av.
 
-## One-page synopsis
+## Kort synopsis (per del)
 
-**Act I — The Girl.** Medusa grows up on Sarpedon with her immortal sisters, Stheno and Euryale, who love her the more for being breakable. She is chosen for Athena's temple at Athens for her beauty and her stillness. She learns the rites. She loves the goddess with the fervour of a girl who has never been loved back by anything larger than a sister.
+**Del ett — Före.** Grottan, havet, Phorkys. Vandringen till templet. Reglerna. Ione. Månaderna som passerar. Kammen på bordet. Athenas händer på hennes huvud. Sju kapitel.
 
-**Act II — The Temple.** Poseidon sees her. The sea is patient; the sea is not. He comes to her in the temple on a night when the lamps are low. Athena, finding her altar defiled, does not punish the god. She punishes the girl. Medusa's hair becomes serpents; her gaze becomes a weapon; her face, once her fortune, becomes the reason no mortal will ever look at her again and live. Her sisters, horrified and unsurprised, carry her west to the edge of the world.
+**Del två — Efter.** Den nya grottan. Den första mannen. Flera. Vad Medusa ser nu. Systrarna som börjar glida isär. Den som inte blev sten. Athenas röst en enda gång genom drömmen. Sju kapitel.
 
-**Act III — The Cave.** Years pass. Heroes come. Medusa learns what she is for. She learns the particular shape of each man's wanting — glory, gold, a wife's hand, a father's approval — in the stone of his final expression. She begins to leave them arranged, a garden. Perseus arrives with a polished shield and a god's instruction. He is younger than she expected. She meets his eyes in the bronze and understands: this is not a death. This is the only ending anyone has ever offered her that she can accept on her own terms. She closes her eyes and waits for the blade.
+**Del tre — Perseus.** Rykten. En lång scen mellan Medusa och Stheno — det sista riktiga mötet. Natten före. Perseus, kort. Efteråt: vi-rösten bryts, huvudet berättar, rösten blir entalig. Fem kapitel.
 
-## What this story is about
+## Vad boken handlar om
 
-Divine injustice. The grammar of blame. The way a woman's body becomes a site of argument between men and gods. Sisterhood as the only reliable love. Monstrosity as armour, and the cost of wearing armour long enough to forget the shape of yourself underneath.
+Den gudomliga orättvisan, men utan att säga det. En systerskapsform som bär berättelsen ända tills den inte längre kan det. Vad som händer med en röst när den inte längre får vara kollektiv. En gåva som inte skiljs från ett straff. Att bli sedd.
 
-## What this story is not
+## Vad boken inte är
 
-A revenge fantasy. A romance. A redemption of Poseidon or Athena. A rehabilitation of Perseus. Medusa does not win. She chooses.
+En hämndfantasi. En romans. En upprättelse av Athena eller av den som inte namnges. En rehabilitering av Perseus. Medusa vinner inte. Hon väljer inte heller, inte i den meningen hon själv skulle kalla val. Hon fortsätter berätta.
+
+## Form
+
+- ~25 000–30 000 ord, 19 kapitel, presens genomgående.
+- Första person plural ("vi") från kapitel 1 till kapitel 18. Bryts i 19.
+- Stilen är Agota Kristof: korta deklarativa meningar, inga känsloord, inga liknelser. Det outhärdliga får samma vikt som det ordinära.
+- Kapitellängd 1–4 sidor i regel. Kapitel 16 är undantaget (6–8 sidor).

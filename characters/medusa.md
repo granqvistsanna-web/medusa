@@ -6,11 +6,12 @@
 
 ## Voice
 
-- First person, past tense. Present tense for the cave frame.
-- Wry without being bitter. She has had years to arrange the story. The bitterness is in the selection of detail.
-- Sensory, specific. She remembers weights, smells, the grain of wood.
-- Does not name her own pain directly. Says what she was doing with her hands.
-- When she speaks of the gods, her diction formalises slightly.
+- First person plural ("vi") from ch 1 through ch 18. The plural is Medusa with her sisters woven in — not a committee, but a voice that has forgotten how to say "I". It begins to crack in ch 16 and breaks definitively in ch 19, where "jag" appears for the first time.
+- Present tense throughout. A retrospective frame allows small markers ("då", "nu tänker jag", "jag visste redan"), no longer reflection.
+- Agota Kristof: korta deklarativa meningar. Inga känsloord. Inga liknelser. Det outhärdliga får samma vikt som det ordinära.
+- She does not name her own pain. She counts — ceiling cracks, torches, steps back. She says what the hand was doing.
+- When she speaks of the gods, her syntax does not shift; only what she registers does.
+- She is not wry. She is not bitter. She is not composed. She is a voice after the fact.
 
 ## Wants
 

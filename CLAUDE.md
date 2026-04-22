@@ -4,11 +4,16 @@ A literary fantasy novella retelling the myth of Medusa from her own point of vi
 
 ## Form & voice
 
-- **Length:** Novella, ~25-40k words, ~12-18 chapters.
-- **POV:** First person, Medusa. Close, interior, unreliable where her feelings colour memory.
-- **Tense:** Past tense, with occasional present-tense framing scenes (older Medusa, after the curse, reflecting).
-- **Register:** Literary, lyrical, grounded in sensory detail. No anachronisms. Avoid modern idiom.
-- **Gods:** They speak in a register slightly elevated from mortals — plainer syntax, heavier weight. Do not make them theatrical.
+- **Language:** Swedish. Kapitel, beats och prosa skrivs på svenska. Bibel och arbetsnoteringar får vara på engelska.
+- **Length:** Novella, ~25–30k words, 19 chapters. See `outline/act-structure.md`.
+- **POV:** First person plural — "vi" — Medusa retrospectively, with the sisters woven in. The plural holds through ch 1–18, begins to crack in ch 16, breaks definitively in ch 19 where the voice becomes "jag" for the first time. This break is the structural turn of the book.
+- **Tense:** Present throughout. A retrospective frame allows small markers ("då", "nu tänker jag", "jag visste redan") but no longer reflective passages.
+- **Register:** Agota Kristof. Korta deklarativa meningar. Inga känsloord. Inga liknelser. Platta konstateranden. Det outhärdliga får samma vikt som det ordinära. No anachronisms. Avoid modern idiom.
+- **Gods:** They speak in a register slightly plainer than mortals — fewer words, heavier weight. Do not make them theatrical.
+- **Names that are never spoken:** Poseidon. Perseus. (Possibly — decision deferred; see `notes/open-questions.md`.)
+- **Names that are spoken:** Athena, Stheno, Euryale, Phorkys, Ione, Medusa herself.
+- **The hair:** changes but is never described directly. "Mitt hår är inte längre hår."
+- **Monster attributes:** only the stone-gaze. No wings, no fangs.
 
 ## Canon & liberties
 
@@ -42,7 +47,9 @@ Delegate to the right subagent via the Agent tool:
 ## House style
 
 - No em-dashes inside dialogue attribution; use commas.
-- Prefer concrete images to abstract nouns.
-- No modern psychology vocabulary in narration (no "trauma", "dissociation", "boundaries"). Show the feeling instead.
-- Divine names capitalised; epithets lowercase unless a name (e.g. "the Grey-Eyed" in capitals when used as address, lowercase in reference).
+- Prefer concrete actions and facts to abstract nouns. Count things. Name objects.
+- No modern psychology vocabulary in narration (no "trauma", "dissociation", "boundaries"). Do not name the feeling. Say what the hand was doing.
+- No similes. Metaphors only where they have already hardened into idiom.
+- Divine names capitalised; epithets lowercase unless used as a name (e.g. "den Gråögda" as address, gråögd in reference).
 - Italicise Greek words on first use only.
+- Chapter length: 1–4 pages as a rule. Ch 16 is the exception (6–8 pages).

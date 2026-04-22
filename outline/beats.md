@@ -1,93 +1,162 @@
-# Per-chapter beats
+# Per-kapitel-beats
 
-Each chapter file in `chapters/` should open with a YAML-ish block listing its beats, pulled from here. The beats are the promise of the chapter. The prose is the payment.
+Varje kapitelfil i `chapters/` ska öppna med ett block som listar dess beats, hämtat härifrån. Beatsen är kapitlets löfte. Prosan är inlösen.
 
-When a chapter is drafted, copy the beats into the chapter file as a comment at the top. Do not delete beats once drafted — mark them ✓ or note where they moved.
+När ett kapitel är utkastat, kopiera beatsen till kapitelfilen som en kommentar i toppen. Radera inte beats när de är utkastade — markera dem ✓ eller notera vart de har flyttat.
+
+**Röstregel:** Första person plural ("vi") från kapitel 1 till kapitel 18. Kapitel 19 är där vi-rösten definitivt bryts och blir "jag".
+
+**Tempusregel:** Presens genomgående. Retrospektiv ram tillåter småord ("då", "nu tänker jag", "jag visste redan") men inga längre reflektionspassager.
+
+**Stilregel:** Agota Kristof. Korta deklarativa meningar. Inga känsloord. Inga liknelser. Platta konstateranden. Det som är outhärdligt sägs med samma vikt som det som är ordinärt.
 
 ---
 
-## ch01 — The cave, morning
+# Del ett — Före
 
-- Open in the present tense. The cave. The sea. Medusa's serpents waking before she does.
-- One concrete image of monstrosity made domestic (e.g. a serpent drinking from a cup).
-- Euryale singing; Stheno outside.
-- Medusa says, to the reader, that she knows someone is coming. Does not say how.
-- End on a sound from the shore that is not quite right.
+## 1. Vi är tre ✓ *(utkast — "Före")*
 
-## ch02 — Sarpedon
+- Öppna i grottan. Havet. Ljudet.
+- Vi är tre. Phorkys är den som vi kallar far. Han är inte far.
+- Konstatera det dödliga: jag är den enda som kan dö. Inte uttrycka sorg över detta. Bara konstatera.
+- En konkret bild av barndomens vardag — mat, vatten, en gest mellan systrarna.
+- Avsluta på ett förebud som inte namnges som förebud.
 
-- Earliest memory she will share. A storm. Euryale carrying her up.
-- Establish the sisters' immortality through a child's incomprehension.
-- Mother: one line. Dead, or gone. No more.
-- Close with an image that will echo at the end (hair wet on her forehead; a hand under her chin).
+## 2. Phorkys
 
-## ch03 — The priest
+- Vintrarna i grottan. Phorkys är där. Han talar sällan.
+- Stheno lär sig saker av honom utan att han lär henne — observera, inte förklara.
+- Euryale tål honom inte. Hon säger det aldrig. Hon går ut när han kommer in.
+- Etablera att Phorkys är den som bestämmer att Medusa ska till templet.
+- En scen där vi äter tillsammans. Ingen talar.
 
-- A travelling priest sees her at twelve. Proposes her to Athens.
-- Stheno's reaction (pragmatic). Euryale's (silent).
-- Medusa wants to go. This is important. She is not taken; she chooses.
-- End with her lying awake, imagining the goddess.
+## 3. Vägen ✓ *(del av utkast i "Templet")*
 
-## ch04 — The temple, first sight
+- Tre dagars vandring. Vi går. Phorkys går före.
+- Landskapet: stenar, getter, en brunn.
+- Vid porten försvinner Phorkys. Han tar inte farväl. Vi märker det först senare.
+- Vi går in.
 
-- Arrival in Athens. The steps, the olive tree, the sea visible below.
-- The wooden image of Athena. Medusa kneels. Something happens — a shift in the light, or nothing.
-- She decides she is at home.
+## 4. Templet ✓ *(utkast klart)*
 
-## ch05 — The statues (frame)
+- Reglerna. Vi räknar upp dem. Vi bryter inte mot dem.
+- Ione — den äldre prästinnan. Hon är vänlig. Hon är inte mjuk.
+- Athena visar sig. Hon säger: "Det är synd."
+- Avsluta på den meningen. Förklara den inte.
 
-- Stheno is arranging one. They talk about the name of the man. Medusa does not remember it.
-- She realises she does not remember most of them.
-- The one she remembers is the one she will write about next.
+## 5. Dagarna
 
-## ch06 — The rites
+- Månaderna passerar. Rutinen beskrivs i listor av handlingar.
+- Stheno gör sig liten. Euryale slutar tala.
+- De tunga fotstegen som går genom templet. Vi namnger inte den som går.
+- En natt ser Ione på mig. Hon säger ingenting.
+- Bygg dread genom upprepning, inte genom språk.
 
-- Years in the temple. A friend (name her). The joy of service.
-- Athena, glimpsed — once, perhaps. An owl on the olive tree.
-- One line that signals what is coming without telegraphing: a sense of being watched that Medusa mistakes for devotion.
+## 6. Kammen ✓ *(utkast — behöver expanderas)*
 
-## ch07 — The night
+- Rummet. Kammen på bordet. Facklorna.
+- Händerna är våta. Det konstateras.
+- Räkna taksprickor. Räkna facklor. Räkna fotsteg tillbaka.
+- Golvets kyla konstateras två gånger.
+- En mening i slutet som säger vad som har skett. Platt.
+- Beskriv inte kroppen.
 
-- Elliptical. Fragments. The lamps. The olive tree. The smell of brine inside a temple where no sea should reach.
-- One full sentence at the end, stating what happened, flatly.
-- Do not describe the body.
+## 7. Rummet utan ingenting ✓ *(utkast — slutet av "Efter")*
 
-## ch08 — The curse
+- Morgonen. Templet är tomt.
+- Athena står framför mig. Hon säger något knappt.
+- Förvandlingen sker. Jag känner håret röra sig innan jag rör vid det.
+- Slutar på hennes händer på mitt huvud.
+- Det är slutet på del ett.
 
-- Dawn. Athena's presence before her face. The priestesses gone.
-- The curse as language: Athena speaks it. Medusa feels her hair move before she touches it.
-- The first death: a temple dog. Medusa does not cry until she touches the dog's stone ear.
+---
 
-## ch09 — The journey
+# Del två — Efter
 
-- The sisters arrive, knowing already. They do not ask.
-- Days and nights crossing water. Medusa blindfolded. The shepherd accident.
-- The cave, first sight. Euryale: "We have been here before."
+## 8. Vi bor nu
 
-## ch10 — The cave years
+- En ny grotta. En annan ö. Västerut.
+- Vi är tre fortfarande. Systrarna har följt med.
+- Deras blick fungerar också annorlunda. Det konstateras inte direkt — visa genom vad de gör med ögonen.
+- En första dag. Vad vi äter. Var vi sover.
 
-- Compressed. A calendar of heroes. Medusa learns what she is for.
-- The shepherd's daughter scene. A girl who does not turn to stone. Medusa lets her go. Stheno argues, briefly.
-- An interior turn: Medusa begins to see her curse as a door she can stand in.
+## 9. Den första
 
-## ch11 — One hero
+- En man kommer. Han har ett svärd.
+- Han vänder sig inte bort. Han blir sten.
+- Stheno begraver honom. Euryale tittar inte.
+- Vi säger ingenting om vad som hände.
 
-- A named man, more developed than the others. What he wanted. His last expression.
-- Medusa keeps him at the entrance as a warning. Then, later, as company.
+## 10. Flera
 
-## ch12 — The sandals
+- Stheno räknar. Vi räknar.
+- Kort kapitel — kanske en sida. En lista. Ett mönster.
+- Ett namn kanske. Ingen ansikte.
 
-- Frame. Present tense. Medusa hears the beat of wings above the shore.
-- Euryale stops singing. Stheno sharpens a knife she will not use.
-- Medusa walks out to the mouth of the cave and waits.
+## 11. Vad jag ser nu
 
-## ch13 — Perseus
+- Medusa beskriver världen som hon ser den efter förvandlingen.
+- Utan affekt. Bara skillnader. Ljus annorlunda. Yta annorlunda.
+- Tematisk tyngdpunkt: gåva eller straff. Låt det stå öppet.
+- Inget ord som "förmåga". Inget ord som "makt".
 
-- He enters with the shield. He does not look at her directly. She does not let him.
-- A brief exchange. Mostly gesture.
-- Medusa's choice: she closes her own eyes. She will not make him do it against a flinching thing.
+## 12. Systrarna
 
-## ch14 — The end
+- Vi-rösten börjar vackla. Systrarna märker det inte.
+- Stheno försöker hålla ihop oss — ett måltidsgöra, en rutin.
+- Euryale börjar gå ut om nätterna. Vi vet inte vart.
+- En kväll talar Stheno och Medusa inte med samma röst. Det konstateras inte.
 
-- One page. Medusa's last sentences. The sound of the blade is not on the page.
-- Optional coda: a paragraph from Euryale's perspective, or a single line. Decide in revision.
+## 13. Den som inte blev sten
+
+- Någon kommer och vänder sig inte bort. En blind tiggare kanske, eller en kvinna.
+- Scenen är nästan tom. Få ord. Långa pauser.
+- Den ömmaste scenen i boken. Får inte kallas öm.
+- Besökaren går. Vi pratar inte om det efteråt.
+
+## 14. Rösten
+
+- Athenas röst återvänder. En enda gång.
+- Genom stenen, genom drömmen, genom templet. Kort kapitel.
+- Hon säger något knappt.
+- Medusa förstår eller förstår inte. Texten tar inte ställning.
+
+---
+
+# Del tre — Perseus
+
+## 15. De säger att han kommer
+
+- Fiskare. Rykten.
+- Någon säger något till Stheno. Stheno säger det inte till Medusa.
+- Stheno börjar förbereda något — vad syns men namnges inte.
+- Euryale är redan någon annanstans.
+
+## 16. Jag och hon
+
+- Medusa och Stheno ensamma. Euryale är inte där.
+- Den första riktigt långa scenen i boken (6–8 sidor).
+- De talar inte om Perseus. De talar om barndomen — Sarpedon, Phorkys, vinterkvällarna.
+- Detta är det sista riktiga mötet mellan systrarna. Allt systerstoff måste rymmas här.
+- Stilen tillåts andas något mer — men aldrig bli varm.
+
+## 17. Natten före
+
+- Ingenting händer. Vi sover.
+- Medusa räknar — andetag, stjärnor, sprickor.
+- Ett förebud men det namnges inte.
+
+## 18. Han
+
+- Perseus kommer. Mycket kort — kanske tre sidor.
+- Han ser inte på mig. Jag ser inte på honom.
+- Vändningen är bara ytterligare en sak som sker.
+- Inga sista ord. Inget avsked.
+
+## 19. Efteråt
+
+- Vi-rösten bryts definitivt.
+- Medusa fortsätter berätta. Hon är död men hon berättar. Huvudet berättar.
+- Rösten blir entalig: "jag" utan "vi" för första gången i boken.
+- Detta är den strukturella vändningen — pluralen har burit hela berättelsen och nu finns den inte längre.
+- Slutar där det slutar. Inget efteråt efter efteråt.
