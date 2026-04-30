@@ -9,7 +9,7 @@ permalink: /
     <p class="kicker">Published chapters</p>
     <h1>Medusa</h1>
     <p class="lede">A mortal girl becomes the monster the gods need her to be, and learns too late that the only story left to her is the one told by the boy sent to kill her.</p>
-    {% assign chapters = site.pages | where_exp: "page", "page.chapter and page.published == true" | sort: "chapter" %}
+    {% assign chapters = site.pages | where: "layout", "chapter" | sort: "chapter" %}
     <dl class="site-stats" aria-label="Published chapter stats">
       <div>
         <dt>Chapters</dt>
