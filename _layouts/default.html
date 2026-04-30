@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="sv">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
   </head>
   <body class="{% if page.chapter %}chapter-page{% else %}site-page{% endif %}">
-    <a class="skip-link" href="#main">Skip to content</a>
+    <a class="skip-link" href="#main">Hoppa till innehåll</a>
     <header class="site-header">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Medusa home">Medusa</a>
-      <nav class="site-nav" aria-label="Primary">
-        <a href="{{ '/' | relative_url }}">Home</a>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Medusa, startsida">Medusa</a>
+      <nav class="site-nav" aria-label="Huvudnavigation">
+        <a href="{{ '/' | relative_url }}">Hem</a>
         <a href="{{ '/synopsis.html' | relative_url }}">Synopsis</a>
-        <a href="{{ '/chapters/' | relative_url }}">Chapters</a>
+        <a href="{{ '/chapters/' | relative_url }}">Kapitel</a>
       </nav>
     </header>
 

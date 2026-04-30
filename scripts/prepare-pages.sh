@@ -95,25 +95,25 @@ done
 cat > "$dest/chapters/index.md" <<'CHAPTER_INDEX'
 ---
 layout: default
-title: Chapters
+title: Kapitel
 permalink: /chapters/
 ---
 
-# Chapters
+# Kapitel
 
 {% assign chapters = site.pages | where: "layout", "chapter" | sort: "chapter" %}
 {% if chapters.size > 0 %}
 <div class="chapter-grid">
   {% for chapter in chapters %}
   <a class="chapter-card" href="{{ chapter.url | relative_url }}">
-    <span class="chapter-kicker">Chapter {{ chapter.chapter }}</span>
+    <span class="chapter-kicker">Kapitel {{ chapter.chapter }}</span>
     <strong>{{ chapter.title }}</strong>
     {% if chapter.setting %}<span>{{ chapter.setting }}</span>{% endif %}
-    <span class="chapter-meta">{% if chapter.status %}{{ chapter.status }}{% else %}published{% endif %}</span>
+    <span class="chapter-meta">{% if chapter.status %}{{ chapter.status }}{% else %}publicerad{% endif %}</span>
   </a>
   {% endfor %}
 </div>
 {% else %}
-No chapters have been marked for publication yet.
+Inga kapitel har markerats för publicering än.
 {% endif %}
 CHAPTER_INDEX

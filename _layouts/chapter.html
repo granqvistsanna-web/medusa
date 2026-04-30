@@ -3,13 +3,13 @@ layout: default
 ---
 
 <article class="reader-shell">
-  <aside class="chapter-aside" aria-label="Chapter details">
-    <p class="kicker">Chapter {{ page.chapter }}</p>
+  <aside class="chapter-aside" aria-label="Kapitelinformation">
+    <p class="kicker">Kapitel {{ page.chapter }}</p>
     <h1>{{ page.title }}</h1>
     <dl class="chapter-facts">
-      {% if page.pov %}<div><dt>POV</dt><dd>{{ page.pov }}</dd></div>{% endif %}
-      {% if page.setting %}<div><dt>Setting</dt><dd>{{ page.setting }}</dd></div>{% endif %}
-      {% if page.time %}<div><dt>Time</dt><dd>{{ page.time }}</dd></div>{% endif %}
+      {% if page.pov %}<div><dt>Berättarperspektiv</dt><dd>{{ page.pov }}</dd></div>{% endif %}
+      {% if page.setting %}<div><dt>Plats</dt><dd>{{ page.setting }}</dd></div>{% endif %}
+      {% if page.time %}<div><dt>Tid</dt><dd>{{ page.time }}</dd></div>{% endif %}
       {% if page.status %}<div><dt>Status</dt><dd>{{ page.status }}</dd></div>{% endif %}
     </dl>
   </aside>

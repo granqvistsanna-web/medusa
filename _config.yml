@@ -1,5 +1,6 @@
 title: Medusa
-description: A novella-in-progress. Medusa's own account.
+description: En novell under arbete. Medusas egen berättelse.
+lang: sv
 url: "https://granqvistsanna-web.github.io"
 baseurl: "/medusa"
 markdown: kramdown
