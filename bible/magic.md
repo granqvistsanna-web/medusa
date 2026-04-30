@@ -1,29 +1,29 @@
-# Rules of magic & the divine
+# Magins och det gudomligas regler
 
-## How curses work
+## Hur förbannelser fungerar
 
-- A curse is a god's will made permanent in a mortal's body. It cannot be undone by the mortal or by a lesser god.
-- Curses tend to the ironic: they turn the thing the mortal loved into the thing that destroys them. Medusa loved being seen. She is now unlookable.
-- A curse can, rarely, be modified by the god who laid it. Athena does not.
+- En förbannelse är en guds vilja gjord permanent i en dödligs kropp. Den kan inte upphävas av den dödliga eller av en mindre gud.
+- Förbannelser tenderar mot det ironiska: de förvandlar det som den dödliga älskade till det som förgör henne. Medusa älskade att bli sedd. Hon kan nu inte ses.
+- En förbannelse kan, sällan, modifieras av guden som lade den. Athena gör det inte.
 
-## Medusa's petrification
+## Medusas förstening
 
-- Rules: eye contact with a living mortal man turns him to stone. Instantaneous. The stone retains the exact posture and expression of the moment.
-- **Women:** ambiguous in source material. In our version, women are not petrified. Medusa discovers this when a shepherd's daughter wanders into the cave. This matters.
-- **Gods:** immune.
-- **Animals:** petrified. Medusa stops looking at birds.
-- **Reflections:** a reflected gaze works in reverse — she can petrify herself. She does not. Perseus uses this.
-- **After death:** the severed head retains the power. This is off-page in our novella but should be consistent if referenced.
+- Regler: ögonkontakt med en levande dödlig man förvandlar honom till sten. Ögonblickligt. Stenen behåller den exakta hållningen och uttrycket från ögonblicket.
+- **Kvinnor:** tvetydigt i källmaterialet. I vår version blir kvinnor inte förstenade. Medusa upptäcker detta när herdens dotter vandrar in i grottan. Detta är viktigt.
+- **Gudar:** immuna.
+- **Djur:** förstenas. Medusa slutar titta på fåglar.
+- **Speglingar:** en speglad blick fungerar omvänt — hon kan försten sig själv. Hon gör det inte. Perseus använder detta.
+- **Efter döden:** det avhuggna huvudet behåller kraften. Detta sker utanför sidan i vår novell men ska vara konsekvent om det refereras till.
 
-## Her serpents
+## Hennes ormar
 
-- Living. She feels what they feel, faintly. They sleep when she sleeps. They do not bite her. They bite others, venomously, if threatened.
-- She can hear them. Not speech — intention. They are always a little hungrier than she is.
+- Levande. Hon känner svagt vad de känner. De sover när hon sover. De biter henne inte. De biter andra, giftigt, om de hotas.
+- Hon kan höra dem. Inte tal — avsikt. De är alltid lite hungrigare än hon.
 
-## Prophecy
+## Profetia
 
-- Exists. Oracular, ambiguous, binding. Not a major mechanism in this story. If used, source: the Pythia at Delphi, or the leaves at Dodona.
+- Existerar. Orakulär, tvetydig, bindande. Inte en huvudsaklig mekanism i denna berättelse. Om den används: Pythian i Delfi, eller löven i Dodona.
 
-## Fate
+## Ödet
 
-- Above the gods. Medusa's death is fated. Athena's curse does not erase this; it shapes it. Perseus is fated to come. Medusa senses this in the last months and mistakes the sensing for readiness.
+- Står över gudarna. Medusas död är ödesbestämd. Athenas förbannelse upphäver inte detta; den formar det. Perseus är ödesbestämd att komma. Medusa anar detta de sista månaderna och misstar anandet för beredskap.

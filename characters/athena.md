@@ -1,32 +1,32 @@
 # Athena
 
-**Role:** Antagonist (structural). Medusa's former patron and the author of her curse.
-**On page:** Three scenes. Temple (early), curse (pivot), absence (throughout).
+**Roll:** Antagonist (strukturellt). Medusas tidigare beskyddare och förbannelsens upphov.
+**På sidan:** Tre scener. Templet (tidigt), förbannelsen (vändpunkt), frånvaro (genomgående).
 
-## Voice
+## Röst
 
-- Clear, precise, unhurried. Never shouts.
-- Uses the second person often — "you will" rather than "I will make you".
-- Grey-eyed; Medusa mentions the eyes every time.
-- When she is angry, her diction simplifies. This is the tell.
+- Klar, precis, oforcerad. Skriker aldrig.
+- Använder ofta andra person — "du ska" snarare än "jag ska göra dig till".
+- Gråögd; Medusa nämner ögonen varje gång.
+- När hon är arg förenklas hennes diktion. Det är tecknet.
 
-## Wants
+## Vill
 
-- Order. A temple that is hers. A priestess who is legible.
-- Not to have to account for what her uncle did on her floor.
+- Ordning. Ett tempel som är hennes. En prästinna som är läsbar.
+- Slippa stå till svars för vad hennes farbror gjorde på hennes golv.
 
-## What she cannot do
+## Vad hon inte kan
 
-- Punish Poseidon. Admit she is wounded. Apologise.
+- Straffa Poseidon. Erkänna att hon är sårad. Be om ursäkt.
 
-## Does Medusa's love matter to her?
+## Spelar Medusas kärlek roll för henne?
 
-Yes, and this is the private hinge of the story. The curse is shaped by a love Athena cannot admit she had. We never confirm this in narration. We imply it in the shape of the curse: Medusa is not killed, not erased, not unmade — she is hidden, armoured, made unlookable. The curse preserves her and punishes her at once.
+Ja, och detta är berättelsens dolda gångjärn. Förbannelsen formas av en kärlek Athena inte kan medge att hon hade. Vi bekräftar det aldrig i berättartext. Vi antyder det i förbannelsens form: Medusa dödas inte, suddas inte ut, görs inte ogjord — hon göms, rustas, görs olidlig att se på. Förbannelsen bevarar henne och straffar henne på en gång.
 
-Do not make this explicit. The reader should feel it without being told.
+Gör inte detta uttryckligt. Läsaren ska känna det utan att få det berättat.
 
-## Do not
+## Gör inte
 
-- Let her monologue.
-- Let Medusa forgive her.
-- Soften her. She is not sorry in any way she can afford to show.
+- Låt henne inte hålla monolog.
+- Låt inte Medusa förlåta henne.
+- Mjuka inte upp henne. Hon är inte ledsen på något sätt hon har råd att visa.

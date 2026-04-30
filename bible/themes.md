@@ -1,30 +1,31 @@
-# Themes
+# Teman
 
-The novella earns these by dramatising them, not by naming them. This file exists so the writing agents can check whether a scene is pulling its weight.
+Novellen förtjänar dessa genom att dramatisera dem, inte genom att namnge dem. Den här filen finns så att de skrivande agenterna kan kontrollera om en scen drar sin vikt.
 
-## Central
+## Centrala
 
-- **The grammar of blame.** Who gets punished when a god transgresses.
-- **Monstrosity as armour.** The curse takes something from Medusa and also, in a way she will not say aloud, gives her something.
-- **Sisterhood.** Stheno and Euryale are the only characters who love Medusa without needing something from her. Their immortality is a grief: they will outlive her.
-- **Agency at the edge.** Medusa cannot choose most of what happens to her. She can choose how to close her eyes.
+- **Skuldens grammatik.** Vem som straffas när en gud överträder.
+- **Monstruositet som rustning.** Förbannelsen tar något från Medusa och ger henne också, på ett sätt hon inte vill säga högt, något.
+- **Systerskap.** Stheno och Euryale är de enda karaktärerna som älskar Medusa utan att behöva något av henne. Deras odödlighet är en sorg: de kommer att överleva henne.
+- **Handlingsutrymme vid kanten.** Medusa kan inte välja det mesta som händer henne. Hon kan välja hur hon sluter sina ögon.
 
-## Secondary
+## Sekundära
 
-- **Beauty as currency and as trap.**
-- **The particular loneliness of being a god's favourite.**
-- **Witness.** Every man Medusa kills is a man who saw her. The novella is her own act of being seen, on her terms, for once.
+- **Skönhet som valuta och som fälla.**
+- **Den särskilda ensamheten i att vara en guds favorit.**
+- **Vittnesbörd.** Varje man Medusa dödar är en man som såg henne. Novellen är hennes egen handling att bli sedd, på sina villkor, för en gångs skull.
+- **Fattigdomens räkning.** Boken öppnar med en mor som räknar mynten två gånger fast antalet inte ändrar sig, en fångst som inte räcker, en handlare som betalar sent. Brist är inte bakgrund utan tryck — det är därför Medusa till slut ska gå till templet. När en mäktig man håller kvar en flickas handled vid torget gör han det inför vittnen som har för mycket att förlora för att se. Skuldens grammatik börjar här, långt före gudarna.
 
-## Images we return to
+## Bilder vi återkommer till
 
-- Stone (the statues; the temple; the heart).
-- Reflection (bronze, water, eyes).
-- Hair (before and after; her sisters brushing it; the serpents).
-- The sea (always audible; never a friend).
-- The olive tree at the temple.
+- Sten (statyerna; templet; hjärtat).
+- Spegling (brons, vatten, ögon).
+- Hår (före och efter; systrarna som borstar det; ormarna).
+- Havet (alltid hörbart; aldrig en vän).
+- Olivträdet vid templet.
 
-## What to avoid
+## Att undvika
 
-- Lecturing. The themes do their work when characters act, not when they explain.
-- Modern therapeutic vocabulary.
-- Making Medusa a hero or a symbol. She is a person.
+- Föreläsande. Temana gör sitt arbete när karaktärer handlar, inte när de förklarar.
+- Modern terapeutisk vokabulär.
+- Att göra Medusa till en hjälte eller en symbol. Hon är en person.

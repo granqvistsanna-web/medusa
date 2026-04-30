@@ -1,35 +1,35 @@
 # Perseus
 
-**Role:** The hero. Medusa's killer. A boy doing an errand for a king and a goddess.
-**On page:** Late. One chapter, perhaps two.
+**Roll:** Hjälten. Medusas dråpare. En pojke som utför ett ärende åt en kung och en gudinna.
+**På sidan:** Sent. Ett kapitel, kanske två.
 
-## Voice
+## Röst
 
-- Young. Nervous under the bravado. Prays under his breath.
-- Does not say much directly. Medusa reads him in gesture and held breath.
-- We never enter his interior.
+- Ung. Nervös under modet. Ber tyst för sig själv.
+- Säger inte mycket direkt. Medusa läser honom i gester och hållna andetag.
+- Vi träder aldrig in i hans inre.
 
-## What he has
+## Vad han har
 
-- The adamantine sickle (from Hermes/Hephaestus).
-- The polished shield (from Athena — this matters).
-- The cap of invisibility (Hades', via the Graeae). Used to approach unseen. Removed for the confrontation in our version; we want him to look at her, through the shield.
-- Winged sandals.
+- Den adamantina skäran (från Hermes/Hefaistos).
+- Den polerade skölden (från Athena — detta spelar roll).
+- Hadeshjälmen (Hades, via grajerna). Använd för att närma sig osedd. Avtagen vid mötet i vår version; vi vill att han ska se på henne, genom skölden.
+- Vingsandalerna.
 
-## Why he is here
+## Varför han är här
 
-- A king's quest, designed to get him killed. To marry his mother. He does not know this at the depth the reader does; he knows it enough.
-- He is not a villain. He is a boy with a sword and an impossible task and a goddess telling him how to hold the shield.
+- En kungs uppdrag, utformat för att få honom dödad. För att gifta sig med hans mor. Han vet inte detta på det djup läsaren gör; han vet det tillräckligt.
+- Han är ingen skurk. Han är en pojke med ett svärd och en omöjlig uppgift och en gudinna som säger åt honom hur skölden ska hållas.
 
-## Medusa's reading of him
+## Medusas läsning av honom
 
-- She sees the fear first. Then the youth. Then the care he takes with the shield — she recognises temple training when she sees it.
-- She sees Athena's hand on the boy's shoulder. She does not say whether Athena is visible or only remembered.
-- She decides he will do. She closes her eyes.
+- Hon ser rädslan först. Sedan ungdomen. Sedan omsorgen han har om skölden — hon känner igen tempelträning när hon ser den.
+- Hon ser Athenas hand på pojkens axel. Hon säger inte om Athena är synlig eller bara minnd.
+- Hon bestämmer sig för att han duger. Hon sluter sina ögon.
 
-## Do not
+## Gör inte
 
-- Make him cruel. Cruelty is not the ending. Obedience is.
-- Give him a last-minute doubt that he voices aloud.
-- Let him apologise. He does not know enough to.
-- Name his mother, Danaë, unless he says the word himself in fear.
+- Gör honom inte grym. Grymhet är inte slutet. Lydnad är.
+- Ge honom inte ett tvivel i sista minuten som han säger högt.
+- Låt honom inte be om ursäkt. Han vet inte tillräckligt för att göra det.
+- Namnge inte hans mor, Danaë, om han inte själv säger ordet i rädsla.

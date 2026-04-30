@@ -1,5 +1,5 @@
-# Cuttings
+# Strykningar
 
-Prose cut from drafts that you want to keep. Do not delete; paste here. When you need a sentence, grep it.
+Prosa som skurits ur utkast men du vill behålla. Radera inte; klistra in här. När du behöver en mening, sök fram den.
 
-One heading per chapter of origin.
+En rubrik per ursprungskapitel.

@@ -2,21 +2,21 @@
 chapter: {{NUMBER}}
 title: {{TITLE}}
 pov: Medusa
-tense: past
+tense: preteritum
 setting:
 time:
 characters: [Medusa]
 beats:
   -
 word_target: 1500
-status: draft
+status: utkast
 published: false
 ---
 
-<!-- Before drafting:
-  1. Read synopsis.md and outline/beats.md for this chapter.
-  2. Read every character sheet in `characters:` above.
-  3. Read any bible/ entry referenced.
-  4. Write toward the beats. Do not explain the theme.
-  5. When done, remove this comment.
+<!-- Innan du skriver:
+  1. Läs synopsis.md och outline/beats.md för det här kapitlet.
+  2. Läs varje karaktärsblad i `characters:` ovan.
+  3. Läs den `bible/`-post som refereras.
+  4. Skriv mot beatsen. Förklara inte temat.
+  5. När du är klar, ta bort den här kommentaren.
 -->

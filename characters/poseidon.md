@@ -1,26 +1,26 @@
 # Poseidon
 
-**Role:** The assault. The off-page weight under the novella.
-**On page:** One scene (the temple), and only from Medusa's fragmented perspective. Never again.
+**Roll:** Övergreppet. Den vikt utanför sidan som ligger under novellen.
+**På sidan:** En scen (templet), och endast ur Medusas fragmenterade perspektiv. Aldrig igen.
 
-## Voice
+## Röst
 
-- Almost never speaks. When he does, the sentence is long and tidal.
-- Medusa remembers the smell of him (brine, wet stone, horse) before the face.
+- Talar nästan aldrig. När han talar är meningen lång och tidvattenlik.
+- Medusa minns lukten av honom (bräcka, våt sten, häst) före ansiktet.
 
-## What he thinks
+## Vad han tänker
 
-Irrelevant. The novella does not enter his interior. He is weather.
+Irrelevant. Novellen träder inte in i hans inre. Han är väder.
 
-## How to write the temple scene
+## Hur tempelscenen skrivs
 
-- Do not describe the assault directly. Do not linger on the body.
-- Use sound, peripheral detail, the behaviour of the lamps, the olive tree outside.
-- Medusa's language fragments. Sentences shorten. She counts things.
-- Afterwards: one line of direct statement, then the sisters arriving.
+- Beskriv inte övergreppet direkt. Dröj inte vid kroppen.
+- Använd ljud, perifer detalj, lampornas beteende, olivträdet utanför.
+- Medusas språk fragmenteras. Meningarna blir kortare. Hon räknar saker.
+- Efteråt: en rad rakt sagt, sedan systrarna som anländer.
 
-## Do not
+## Gör inte
 
-- Give him a point of view.
-- Make him seductive on the page.
-- Return him to the narrative. He does not come back. His not-coming-back is the point.
+- Ge honom inte ett perspektiv.
+- Gör honom inte förförisk på sidan.
+- För honom inte tillbaka in i berättelsen. Han kommer inte tillbaka. Att han inte gör det är poängen.

@@ -1,42 +1,42 @@
-# {{NAME}}
+# {{NAMN}}
 
-**Role:**
-**Status at start:**
-**Status at end:**
-**On page:**
+**Roll:**
+**Status vid start:**
+**Status vid slut:**
+**På sidan:**
 
-## Voice
+## Röst
 
-- Diction, register, sentence length. What they sound like.
-- One or two verbal tics. Use sparingly.
+- Diktion, register, meningslängd. Hur de låter.
+- Ett eller två verbala drag. Använd sparsamt.
 
-## Wants
+## Vill
 
-- **External:**
-- **Internal:**
-- **Unspoken:**
+- **Yttre:**
+- **Inre:**
+- **Outsagt:**
 
-## Fears
+## Räds
 
 -
 
-## Contradictions
+## Motsägelser
 
-- At least one. Characters without contradictions are furniture.
+- Minst en. Karaktärer utan motsägelser är möbler.
 
-## Physical
+## Fysiskt
 
-- Only the details that will recur or that Medusa will notice.
+- Endast detaljer som ska återkomma eller som Medusa kommer att lägga märke till.
 
-## Relationships
+## Relationer
 
-- To Medusa:
-- To others:
+- Till Medusa:
+- Till andra:
 
-## Arc
+## Båge
 
-- From → to, in five words or fewer.
+- Från → till, på fem ord eller färre.
 
-## Do not
+## Gör inte
 
-- Specific traps for this character. What the writing must not make them.
+- Specifika fällor för denna karaktär. Vad skrivandet inte får göra dem till.

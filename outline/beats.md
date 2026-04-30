@@ -1,93 +1,150 @@
-# Per-chapter beats
+# Kapitelvisa beats
 
-Each chapter file in `chapters/` should open with a YAML-ish block listing its beats, pulled from here. The beats are the promise of the chapter. The prose is the payment.
+Varje kapitelfil i `chapters/` ska öppnas med ett YAML-likt block som listar dess beats, hämtade härifrån. Beatsen är kapitlets löfte. Prosan är betalningen.
 
-When a chapter is drafted, copy the beats into the chapter file as a comment at the top. Do not delete beats once drafted — mark them ✓ or note where they moved.
+När ett kapitel är skrivet, kopiera in beatsen i kapitelfilen som en kommentar överst. Radera inga beats efter att kapitlet är skrivet — markera dem ✓ eller anteckna vart de flyttat.
+
+Historik bevaras: överstrukna beats nedan markerar ett tidigare utkast (grottaram + återblickar) som ersattes när ch01 skrevs om till "Festen". Se `outline/act-structure.md` för förklaring.
 
 ---
 
-## ch01 — The cave, morning
+## ch01 — Festen ✓ (skrivet)
 
-- Open in the present tense. The cave. The sea. Medusa's serpents waking before she does.
-- One concrete image of monstrosity made domestic (e.g. a serpent drinking from a cup).
-- Euryale singing; Stheno outside.
-- Medusa says, to the reader, that she knows someone is coming. Does not say how.
-- End on a sound from the shore that is not quite right.
+Beats som motsvarar kapitlet i `chapters/ch01-festen.md`:
 
-## ch02 — Sarpedon
+- Etablera tre dödliga systrar — Stheno äldst (hård, praktisk), Euryale i mitten (sjunger), Medusa yngst — i ett fiskarhem nära havet.
+- Etablera familjen: far försvunnen i tre år, modern dödlig, hans kniv ligger kvar och Stheno använder den utan att fråga.
+- Mynten på bordet räcker inte. Familjen måste till stadens torg på Athenas högtid trots att Stheno vill att Medusa stannar hemma.
+- Vid stadsporten dröjer en soldats blick vid Medusa; Stheno byter plats och går bakom henne.
+- Vid templets trappor sjunger flickorna hymnen. Medusa börjar sjunga med utan att märka det. En tempelkvinna ser henne.
+- En kvinna med gul slöja varnar modern: "Var försiktig med henne."
+- En mäktig man köper fisk och håller kvar Medusas handled när han räcker mynten. Stheno slår bort hans hand. Modern slutar sälja och tar dem hem.
+- På natten hörs ett ljud. Familjens nät har skurits sönder med rena, lugna snitt. Modern sätter sig på stenen vid väggen.
+- På morgonen knackar Myrine på dörren. Hon erbjuder Medusa mat, arbete, lydnad, skydd hos Athena. Modern säger varken ja eller nej, men låter henne gå utan svar.
+- På natten håller Stheno Medusas hand i sömnen så hårt att märken syns på morgonen.
+- Slutbild och pekare till nästa kapitel: modern säger att Medusa ska gå. Inga av Sthenos ord. Ingen kniv. Bara den meningen.
 
-- Earliest memory she will share. A storm. Euryale carrying her up.
-- Establish the sisters' immortality through a child's incomprehension.
-- Mother: one line. Dead, or gone. No more.
-- Close with an image that will echo at the end (hair wet on her forehead; a hand under her chin).
+## ch02 — Vägen till templet
 
-## ch03 — The priest
+- Avsked vid huset. Vad modern lägger i Medusas knyte (något konkret, inte symboliskt på sidan). Vad Stheno *inte* lägger till.
+- Euryale sjunger inte när de bryter upp. Det är så Medusa förstår att det är allvar.
+- Vägen till kuststaden i Myrines sällskap. Myrine talar lite. När hon talar är det praktiskt: vatten, sandaler, vad som väntar.
+- En händelse på vägen som påminner Medusa om mannen vid torget — inte samme man, samma form. Hon tystnar.
+- Första anblicken av templet uppifrån vägen. Mindre än hon hade trott. Hon säger det inte.
+- Slutbild: Medusa stiger över tröskeln. Pekare: dörren stängs bakom henne på ett sätt hemmets dörr aldrig gjort.
 
-- A travelling priest sees her at twelve. Proposes her to Athens.
-- Stheno's reaction (pragmatic). Euryale's (silent).
-- Medusa wants to go. This is important. She is not taken; she chooses.
-- End with her lying awake, imagining the goddess.
+## ch03 — Tempelkvinnan
 
-## ch04 — The temple, first sight
+- Första veckorna inne i templet vid kuststaden. Lampor, linne, golv. Lydnad som hantverk.
+- Medusa lär sig en rit utan att förstå den. Hon utför den ändå rätt. Detta noteras av Myrine.
+- En annan flicka i templet (namnges i kapitlet) — första vänskapen utanför systrarna. Vad de delar är litet och konkret: en knut i håret, en bortglömd skål.
+- Bud hemifrån, kort. Medusa läser det inte själv (öppet om hon kan). Någon läser det för henne. Modern lever, Stheno arbetar, Euryale har slutat sjunga ett tag och börjat igen.
+- Myrine talar med en äldre tempelkvinna om Medusa, inte i hennes hörhåll men nära nog. Beslutet att skicka henne vidare till Athen tas över hennes huvud.
+- Slutbild: Medusa knyter om sandalremmen för en längre väg. Pekare: hon vet inte ännu vart.
 
-- Arrival in Athens. The steps, the olive tree, the sea visible below.
-- The wooden image of Athena. Medusa kneels. Something happens — a shift in the light, or nothing.
-- She decides she is at home.
+## ch04 — Athen
 
-## ch05 — The statues (frame)
+- Ankomsten i Athen. Trapporna, olivträdet, havet synligt nedanför.
+- Träbilden av Athena. Medusa knäböjer. Något sker — ett skifte i ljuset, eller ingenting.
+- En första rit utförd inför bilden. Hennes händer minns från kuststaden; hennes ansikte är nytt här.
+- En äldre prästinna namnger henne. Det blir hennes namn i templet, inte hennes namn hemma.
+- Slutbild: Medusa bestämmer sig för att hon är hemma. Pekare: hon säger det till sig själv två gånger.
 
-- Stheno is arranging one. They talk about the name of the man. Medusa does not remember it.
-- She realises she does not remember most of them.
-- The one she remembers is the one she will write about next.
+## ch05 — Riterna
 
-## ch06 — The rites
+- År i templet, komprimerat genom återkommande gester (hälla olja, vika linne, släcka och tända).
+- Vänskapen fördjupas. En scen som visar glädje utan att namnge den.
+- En uggla i olivträdet. Medusa noterar den utan att förstå.
+- En känsla av att bli betraktad. Hon tolkar det som hängivelse. Texten tillåter läsaren se vad hon inte ser.
+- Slutbild: lampan brinner ovanligt långt en kväll. Pekare: Medusa stannar kvar med den.
 
-- Years in the temple. A friend (name her). The joy of service.
-- Athena, glimpsed — once, perhaps. An owl on the olive tree.
-- One line that signals what is coming without telegraphing: a sense of being watched that Medusa mistakes for devotion.
+## ch06 — Brevet hem
 
-## ch07 — The night
+- Bud kommer från fiskarhemmet, eller Medusa skickar bud. En liten vecka av två platser.
+- Vad systrarna har blivit i Medusas frånvaro — sagt genom andras ord, inte sett. Beats håller systrarnas form öppen (se akt-strukturens öppna beslut).
+- Modern är trött på ett nytt sätt. Stheno har slutat tala om mannen från torget. Euryales sång har förändrats.
+- Medusa skriver inget tillbaka, eller ber någon skriva för henne, det hon inte kan säga: jag valde detta.
+- En liten skuld i henne. Hon låter den vara liten.
+- Slutbild: hon viker ihop budet. Pekare: hon lägger det inte i sin kista.
 
-- Elliptical. Fragments. The lamps. The olive tree. The smell of brine inside a temple where no sea should reach.
-- One full sentence at the end, stating what happened, flatly.
-- Do not describe the body.
+## ch07 — Natten
 
-## ch08 — The curse
+- Elliptisk. Fragment. Lamporna. Olivträdet.
+- Lukten av bräcka i ett tempel där inget hav borde nå.
+- Lågan som lutar som i vind. Golvet hårt under hennes händer.
+- En full mening i slutet, som rakt anger vad som skett.
+- Beskriv inte kroppen.
+- Pekare: ljuset i östra fönstret.
 
-- Dawn. Athena's presence before her face. The priestesses gone.
-- The curse as language: Athena speaks it. Medusa feels her hair move before she touches it.
-- The first death: a temple dog. Medusa does not cry until she touches the dog's stone ear.
+## ch08 — Förbannelsen
 
-## ch09 — The journey
+- Gryning. Athenas närvaro framför hennes ansikte. Prästinnorna borta.
+- Förbannelsen som språk: Athena talar den. Medusa känner sitt hår röra sig innan hon rör vid det.
+- Den första döden: en tempelhund. Medusa gråter inte förrän hon rör vid hundens stenöra.
+- En gest som ekar handleden i ch01: någon greppar henne, eller hon greppar sig själv, eller hennes hand minns.
+- Slutbild: hennes hand är fortfarande hennes hand. Pekare: hon ropar inte på sina systrar. De kommer ändå.
 
-- The sisters arrive, knowing already. They do not ask.
-- Days and nights crossing water. Medusa blindfolded. The shepherd accident.
-- The cave, first sight. Euryale: "We have been here before."
+## ch09 — Resan västerut
 
-## ch10 — The cave years
+- Systrarna anländer. De frågar inget. *Hur* de kommer hålls tonalt: beats anger inte ännu om de är som hemma, eller förändrade. Beslutet fattas i revisionen och skrivs in här.
+- Dagar och nätter över vatten. Medusa med ögonbindel. Hennes systrars händer vid hennes axlar — beskrivna genom tyngd och temperatur, inte form.
+- En herde ser henne av misstag och dör. Den första döden utanför templet.
+- Grottan, första anblicken. Euryale: "Vi har varit här förut" — eller en motsvarande rad som lämnar frågan vagt öppen.
+- Slutbild: Medusa går in. Pekare: ljudet från havet är annorlunda härifrån. Detta ljud bär in i ramens presens.
 
-- Compressed. A calendar of heroes. Medusa learns what she is for.
-- The shepherd's daughter scene. A girl who does not turn to stone. Medusa lets her go. Stheno argues, briefly.
-- An interior turn: Medusa begins to see her curse as a door she can stand in.
+## ch10 — Grottan, åren
 
-## ch11 — One hero
+- *Första presens i boken.* Den äldre Medusa tar över berättandet. Etablera att vi är hos henne nu, i grottan, och att resten kommer härifrån.
+- En kalender av hjältar, komprimerat. Reglerna för förbannelsen: män blir sten, kvinnor inte, gudar inte, djur ja.
+- Sthenos vardag. Euryales vardag. En liten konkret bild av monstruositet gjord till hushåll.
+- Herdens dotter vandrar in. Hon blir inte sten. Medusa låter henne gå. Stheno protesterar, kort.
+- En inre vändning: Medusa börjar se förbannelsen som en dörr hon kan stå i.
+- Slutbild: en av statyerna får ett namn. Pekare: nästa kapitel är hans.
 
-- A named man, more developed than the others. What he wanted. His last expression.
-- Medusa keeps him at the entrance as a warning. Then, later, as company.
+## ch11 — En hjälte
 
-## ch12 — The sandals
+- En namngiven man, mer utvecklad än de andra. Vad han ville. Hur han kom.
+- En scen där han talar och hon låter honom tala. Han ser henne inte.
+- Hans sista uttryck. Medusa rör vid stenen efteråt — handleden, kanske, eller ansiktet — och kapitlet ekar greppet i ch01 utan att namnge det.
+- Hon behåller honom vid grottans mynning. Först som varning. Senare som sällskap.
+- Slutbild: havet låter annorlunda nästa morgon. Pekare: ett ljud som inte är riktigt rätt.
 
-- Frame. Present tense. Medusa hears the beat of wings above the shore.
-- Euryale stops singing. Stheno sharpens a knife she will not use.
-- Medusa walks out to the mouth of the cave and waits.
+## ch12 — Sandalerna
+
+- Presens. Medusa hör vingslagen ovanför stranden.
+- Euryale slutar sjunga mitt i en rad. Stheno slipar en kniv hon inte ska använda.
+- Medusa borstar systrarnas hår, eller låter dem borsta hennes — en liten ritual, inte stor.
+- Hon går ut till grottans mynning och väntar.
+- Slutbild: en skugga över sanden. Pekare: skuggan är polerad.
 
 ## ch13 — Perseus
 
-- He enters with the shield. He does not look at her directly. She does not let him.
-- A brief exchange. Mostly gesture.
-- Medusa's choice: she closes her own eyes. She will not make him do it against a flinching thing.
+- Han kommer in med skölden. Han ser inte direkt på henne. Hon låter honom inte.
+- Ett kort utbyte. Mest gester. Han säger något lärt utantill. Hon svarar inte på det han väntade.
+- Medusa ser sin egen reflektion i bronset. Inte ormarna — ögonen.
+- Sthenos vrede och Euryales sorg någonstans bakom. De griper inte in.
+- Medusas val: hon sluter sina egna ögon. Hon ska inte låta honom döda något ryggande.
+- Slutbild: mörker på hennes sida av ögonlocken. Pekare: en mening lång nog att bära in i sista kapitlet.
 
-## ch14 — The end
+## ch14 — Slutet
 
-- One page. Medusa's last sentences. The sound of the blade is not on the page.
-- Optional coda: a paragraph from Euryale's perspective, or a single line. Decide in revision.
+- En sida. Medusas sista meningar.
+- Bladets ljud står inte på sidan.
+- Frivillig coda: ett stycke ur Euryales perspektiv, eller en enda rad. Bestäm vid revisionen.
+
+---
+
+## Tidigare utkast (ersatt)
+
+Sparat för att inte tappa spår av varför vissa scener flyttat eller försvunnit. Använd inte som mall.
+
+- ~~ch01 — Grottan, morgon. Presens. Ormar som vaknar. Euryale sjunger. Avslutas på ett ljud från stranden.~~ → ramöppningen flyttad till ch10. Det skrivna ch01 är nu "Festen".
+- ~~ch02 — Sarpedon. Tidigaste minnet. Storm. Modern död eller borta. Odödliga systrar etablerade.~~ → ersatt. Modern lever. Systrarna dödliga vid start. Materialet uppgår delvis i nya ch01 och ch06.
+- ~~ch03 — Prästen. En kringresande präst ser henne vid tolv.~~ → ersatt av Myrine i ch01. Beslutet att gå ligger nu på modern, inte Medusa.
+- ~~ch04 — Templet, första anblicken.~~ → flyttat till nya ch04 (Athen) efter mellansteg i kuststadens tempel (nya ch02 och ch03).
+- ~~ch05 — Statyerna (ram).~~ → upplöst. Funktionen (att Medusa inte minns alla namn) flyttad till nya ch10 och ch11.
+- ~~ch06 — Riterna.~~ → behållen som nya ch05.
+- ~~ch07 — Natten.~~ → behållen som nya ch07.
+- ~~ch08 — Förbannelsen.~~ → behållen som nya ch08.
+- ~~ch09 — Resan.~~ → behållen som nya ch09, men med öppen fråga om systrarnas form.
+- ~~ch10–ch14~~ → struktur i stort behållen, numrering oförändrad. Ramens första presens flyttad hit från bokens början.

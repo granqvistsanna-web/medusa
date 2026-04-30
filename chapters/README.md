@@ -1,42 +1,42 @@
-# Chapters
+# Kapitel
 
-One file per chapter. Naming: `chNN-slug.md` (zero-padded, kebab-case slug).
+En fil per kapitel. Namngivning: `chNN-slug.md` (nollutfylld, kebab-case slug).
 
-## Required header
+## Obligatorisk header
 
-Every chapter file starts with a frontmatter block:
+Varje kapitelfil börjar med ett frontmatter-block:
 
 ```yaml
 ---
 chapter: 7
-title: The night
+title: Natten
 pov: Medusa
-tense: past
-setting: Temple of Athena, Athens
-time: Night
+tense: preteritum
+setting: Athenas tempel, Athen
+time: Natt
 characters: [Medusa, Poseidon]
 beats:
-  - Fragments; do not describe the body
-  - The lamps, the olive tree, the sound of the sea where no sea should reach
-  - One direct sentence at the end
+  - Fragment; beskriv inte kroppen
+  - Lamporna, olivträdet, ljudet av havet där inget hav borde nå
+  - En direkt mening i slutet
 word_target: 1600
-status: draft  # draft | revised | locked
-published: false  # true when this chapter should appear on the website
+status: utkast  # utkast | reviderad | låst
+published: false  # true när kapitlet ska visas på webbsidan
 ---
 ```
 
-Then the prose.
+Sedan prosan.
 
 ## Status
 
-- `draft` — first pass. Continuity-check not yet run.
-- `revised` — prose editorially passed; continuity-check clean.
-- `locked` — touched only for typo fixes without agent approval.
+- `utkast` — första genomgången. Continuity-check ännu inte körd.
+- `reviderad` — redaktionellt genomgången; continuity-check ren.
+- `låst` — rörs endast för korrigering av slagfel utan agentens godkännande.
 
-## Website publishing
+## Webbpublicering
 
-Set `published: true` in a chapter's frontmatter to include it in the static website generated under `_pages/`.
+Sätt `published: true` i ett kapitels frontmatter för att inkludera det i den statiska webbsidan som genereras under `_pages/`.
 
-## Before locking
+## Innan låsning
 
-Run `/continuity-check chNN` and resolve every issue in `notes/open-questions.md`.
+Kör `/continuity-check chNN` och lös varje fråga i `notes/open-questions.md`.

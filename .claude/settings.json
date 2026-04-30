@@ -4,8 +4,30 @@
       "Bash(git clone *)",
       "Bash(command -v meridian)",
       "Bash(command -v mars)",
+      "Bash(command -v uv)",
+      "Bash(uv --version)",
+      "Bash(command -v pipx)",
+      "Bash(pipx --version)",
+      "Bash(command -v pip3)",
+      "Bash(command -v brew)",
+      "Bash(brew --version)",
+      "Bash(brew install *)",
+      "Bash(uv tool *)",
+      "Bash(export PATH=\"/Users/sannagranqvist/.local/bin:$PATH\")",
+      "Bash(meridian --version)",
+      "Bash(meridian --help)",
+      "Bash(mkdir -p /tmp/mars-test)",
+      "Bash(/Users/sannagranqvist/.local/bin/meridian init *)",
+      "Bash(/Users/sannagranqvist/.local/bin/meridian mars *)",
       "Bash(gh run *)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(curl -s -o /dev/null -w \"home %{http_code}\\\\n\" https://granqvistsanna-web.github.io/medusa/)",
+      "Bash(curl -s -o /dev/null -w \"ch01 %{http_code}\\\\n\" https://granqvistsanna-web.github.io/medusa/chapters/ch01-grottan.html)",
+      "Bash(curl -s -o /dev/null -w \"chapters/ %{http_code}\\\\n\" https://granqvistsanna-web.github.io/medusa/chapters/)",
+      "Bash(gh api *)",
+      "Bash(git -C /Users/sannagranqvist/medusa mv chapters/ch01-grottan.md chapters/ch01-festen.md)",
+      "Bash(bash scripts/prepare-pages.sh /tmp/medusa-pages-test)"
     ]
   }
 }

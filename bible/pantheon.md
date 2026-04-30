@@ -1,35 +1,35 @@
-# Pantheon
+# Panteon
 
-Only gods relevant to the novella. Expand as needed.
+Endast gudar relevanta för novellen. Utöka vid behov.
 
 ## Athena
 
-- **Domain:** Wisdom, strategy, weaving, the city, justified war.
-- **Relation to Medusa:** Patron, then destroyer. Loved her as a favourite priestess; punished her as a defiled altar.
-- **Voice:** Cool, exact, grey-eyed. Does not raise her voice. Her anger is procedural.
-- **Why she curses Medusa, not Poseidon:** She cannot punish her uncle, a senior god of equal standing. She can punish a girl. The curse is a displacement of a wound she is not permitted to name.
-- **What she does not know:** That Medusa loved her. Or: she knows, and the knowing is why the curse is shaped the way it is.
+- **Domän:** Visdom, strategi, vävning, staden, rättfärdigt krig.
+- **Förhållande till Medusa:** Beskyddare, sedan förintare. Älskade henne som favoritprästinna; straffade henne som ett skändat altare.
+- **Röst:** Sval, exakt, gråögd. Höjer inte rösten. Hennes vrede är procedurell.
+- **Varför hon förbannar Medusa, inte Poseidon:** Hon kan inte straffa sin farbror, en jämställd seniorgud. Hon kan straffa en flicka. Förbannelsen är en förskjutning av ett sår hon inte tillåts namnge.
+- **Vad hon inte vet:** Att Medusa älskade henne. Eller: hon vet, och vetandet är varför förbannelsen har den form den har.
 
 ## Poseidon
 
-- **Domain:** Sea, earthquakes, horses.
-- **Relation to Medusa:** Predator. Does not return to her in the narrative. Fathers Pegasus and Chrysaor, born from her neck at her death.
-- **Voice:** Rare on the page. When he speaks, the syntax is tidal — a sentence that arrives, recedes, arrives again.
-- **Why he chooses her:** Opportunity and spite. Athena's temple is a trophy as much as Medusa is.
+- **Domän:** Hav, jordbävningar, hästar.
+- **Förhållande till Medusa:** Predator. Återvänder inte till henne i berättelsen. Far till Pegasus och Chrysaor, födda ur hennes hals vid hennes död.
+- **Röst:** Sällan på sidan. När han talar är syntaxen tidvattenlik — en mening som anländer, drar sig tillbaka, anländer igen.
+- **Varför han väljer henne:** Tillfälle och illvilja. Athenas tempel är en trofé lika mycket som Medusa är.
 
 ## Hermes
 
-- **Domain:** Messenger, thresholds, tricksters, guide of the dead.
-- **Relation to Medusa:** Appears briefly — equips Perseus. May, in our version, glance at Medusa with something like apology.
+- **Domän:** Budbärare, trösklar, skojare, de dödas vägledare.
+- **Förhållande till Medusa:** Förekommer kort — utrustar Perseus. Kan, i vår version, kasta en blick på Medusa som något liknande en ursäkt.
 
 ## Hades
 
-- Offstage. Referenced as the destination Medusa, alone among her family, will reach.
+- Utanför scenen. Refereras som målet Medusa, ensam i sin familj, kommer att nå.
 
-## The sisters
+## Systrarna
 
-- **Stheno** and **Euryale** are immortal Gorgons, daughters of Phorcys and Ceto. They were always monstrous in ways the world taught them to survive, and Medusa learns their forms before she learns to fear them. See their character sheets.
+- **Stheno** och **Euryale** är, i nuvarande kanon (kapitel 1), Medusas dödliga storasystrar i ett fattigt fiskarhushåll. Stheno är äldst — starka händer, slutet ansikte, vaken först och sömnig sist. Euryale är i mitten — smalare, tystare, sjunger när hon arbetar. Deras eventuella senare transformation till odödliga gorgoner (Hesiodos linje, Phorkys och Keto som föräldrar) är öppen och hör inte hemma i tidslinjen förrän handlingen kräver det. Se deras karaktärsblad.
 
-## Absent by design
+## Frånvarande av design
 
-Zeus, Apollo, Aphrodite, Ares, Hera, Artemis, Demeter — not in the novella unless a scene demands one. If one is added, create a sheet here.
+Zeus, Apollon, Afrodite, Ares, Hera, Artemis, Demeter — finns inte i novellen om inte en scen kräver det. Om en läggs till, skapa ett blad här.

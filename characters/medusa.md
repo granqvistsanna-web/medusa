@@ -1,56 +1,68 @@
 # Medusa
 
-**Role:** Protagonist, narrator.
-**Status at start:** Mortal, cursed, ~25-30 years old, living in the cave.
-**Status at end:** Beheaded by Perseus, by her own consent.
+**Roll:** Protagonist, berättare.
+**Status vid start:** Dödlig fiskardotter, yngst av tre systrar, fortfarande barn (yngre än "ung kvinna"). Far saknad sedan tre år. Hushåll med mor och systrarna Stheno och Euryale, nära havet, nära en kuststad med Athenas tempel.
+**Status vid slut:** Halshuggen av Perseus, av eget samtycke.
+**På sidan:** Genomgående. Berättarrösten.
 
-## Voice
+## Röst
 
-- First person, past tense. Present tense for the cave frame.
-- Wry without being bitter. She has had years to arrange the story. The bitterness is in the selection of detail.
-- Sensory, specific. She remembers weights, smells, the grain of wood.
-- Does not name her own pain directly. Says what she was doing with her hands.
-- When she speaks of the gods, her diction formalises slightly.
+- Första person, preteritum. Presens i grottans ramkapitel.
+- Som barn: korta meningar, konkreta iakttagelser, frågor hon inte säger högt. Hon registrerar mer än hon förstår.
+- Som äldre berättare: ironisk utan att vara bitter. Hon har haft åratal att ordna berättelsen. Bittraheten ligger i urvalet av detalj.
+- Sinnlig, specifik. Hon minns vikter, lukter, träets ådring, hur en hand kändes.
+- Namnger inte sin egen smärta direkt. Säger vad hon gjorde med händerna, eller vad någon annan gjorde med sina.
+- När hon talar om gudarna stelnar hennes diktion något.
+- Verbalt drag: hon mäter sig själv mot ett underförstått ord. "Jag ville." "Jag ville bära det tunga." "Jag ville att Stheno skulle säga." Konstruktionen återkommer sparsamt.
 
-## Wants
+## Vill
 
-- **External:** To be left alone by the next hero, and also — secretly — not to be.
-- **Internal:** To understand whether the girl she was is still inside what she became.
-- **Unspoken:** To be seen by someone who knows what she is and does not turn to stone and does not flinch.
+- **Yttre (barnet):** Att bära det tunga. Att få göra det Stheno gör. Att inte få "det lätta".
+- **Yttre (äldre):** Att lämnas i fred av nästa hjälte, och också — i hemlighet — att inte göra det.
+- **Inre:** Att Stheno ska säga att hon är stark. Senare: att förstå om flickan hon var fortfarande finns inuti det hon blivit.
+- **Outsagt:** Att bli sedd av någon som vet vad hon är och inte blir sten och inte ryggar.
 
-## Fears
+## Räds
 
-- That Athena was right.
-- That her sisters will, one day, look at her the way the men look.
-- Being forgotten. Being remembered only by the name the killer gives her.
+- Att vara den lätta, den lilla, den som lämnas hemma.
+- Senare: att Athena hade rätt.
+- Att hennes systrar, en dag, ska se på henne som männen ser på henne.
+- Att bli glömd. Att bli ihågkommen endast med det namn dråparen ger henne.
 
-## Contradictions
+## Motsägelser
 
-- She kills men and keeps their statues. She tells herself she does not enjoy it. She is not always telling the truth.
-- She loves Athena still. She would not say so aloud.
-- She is relieved when Perseus arrives. She is also, briefly, furious.
+- Hon vill bära det tunga. När hon får ett verkligt tungt val — templet — säger hon ja för att det glittrar, inte för att det är tungt.
+- Hon dödar män och behåller deras statyer. Hon säger sig själv att hon inte njuter av det. Hon talar inte alltid sanning.
+- Hon älskar fortfarande Athena. Hon skulle inte säga det högt.
+- Hon känner lättnad när Perseus anländer. Hon är också, kort, rasande.
 
-## Physical
+## Fysiskt
 
-- Before: olive skin, black hair to the waist, grey eyes (a detail she notes only because Athena's were grey too).
-- After: the hair is serpents, green and black and the colour of wet bronze. The eyes are unchanged. This is what she finds hardest.
-- Scars: a thin line across the left palm from a temple knife, adolescence. A burn on the right forearm from a lamp, the night in the temple.
+- Före: olivfärgad hud, svart hår till midjan, gråa ögon (en detalj hon noterar endast för att Athenas också var gråa). Som barn: smala handleder, fingrar som luktar fisk när hon hjälpt mor.
+- Efter: håret är ormar, gröna och svarta och i färgen av vått brons. Ögonen är oförändrade. Det är vad hon finner svårast.
+- Ärr: en tunn linje över vänster handflata från en tempelkniv, tonåren. En brännskada på höger underarm från en lampa, natten i templet.
+- Märken: Sthenos fingrar runt hennes hand på morgonen efter festen. Mannens hand runt hennes handled lämnar inget märke alls. Hon noterar skillnaden.
 
-## Relationships
+## Relationer
 
-- **Stheno:** Older sister. Immortal. Practical, fierce, makes the food.
-- **Euryale:** Older sister. Immortal. The one who sings. Was Medusa's second mother when their own died.
-- **Athena:** Past object of devotion. Present absence in every scene.
-- **Poseidon:** Not named aloud by Medusa through most of the novella. When she does name him, it is one word and then a silence.
-- **Perseus:** A boy she has been waiting for without knowing his name.
+- **Stheno:** Storasyster, dödlig fiskardotter. Den som tillrättavisar och som slår bort en mans hand utan att tänka. Den vars hårda omsorg lämnar märken Medusa kan se.
+- **Euryale:** Mellansystern. Sjunger, lagar nät, säger "ja" och tystnar. Hennes tystnad väger.
+- **Mor:** Räknar mynt. Säger inte att fadern är död. Säger inte att han lever. Avgör i slutet av kapitel 1 att Medusa ska gå till templet.
+- **Far:** Saknad sedan tre år. En tom plats vid bordet och en kniv på hyllan. Medusa minns honom som genom dis.
+- **Myrine:** Tempelkvinnan som först ser henne sjunga.
+- **Athena:** Tidigare hängivenhetens föremål. Närvarande frånvaro i varje scen efter förbannelsen.
+- **Poseidon:** Inte namngiven högt av Medusa under större delen av novellen. När hon namnger honom, är det ett ord och sedan en tystnad.
+- **Perseus:** En pojke hon väntat på utan att veta hans namn.
 
-## Arc
+## Båge
 
-Girl → priestess → victim → monster → narrator → chooser.
+Flicka → prästinna → offer → monster → berättare → väljare.
 
-## Do not
+## Gör inte
 
-- Give her a redemption speech.
-- Let her explain her own symbolism.
-- Make her forgive Athena.
-- Make her hate her sisters, even for a moment.
+- Gör henne inte tidigt-vis. Som barn ska hon förstå för lite, inte för mycket.
+- Ge henne inget upprättelsetal.
+- Låt henne inte förklara sin egen symbolik.
+- Få henne att förlåta Athena.
+- Få henne att hata sina systrar, ens för ett ögonblick.
+- Skriv inte hennes första erfarenhet av en mans uppmärksamhet som något hon förstår direkt. Hon förstår den genom Stheno, genom mors tystnad, genom kvinnan med gul slöja. Inte genom egna ord.

@@ -1,21 +1,21 @@
 # {{TITLE}}
 
-## What it is
+## Vad det är
 
-One paragraph. Plain statement.
+Ett stycke. Saklig framställning.
 
-## What Medusa knows about it
+## Vad Medusa vet om det
 
-What the narrator can observe, assume, or has been told. Anything the reader learns through her comes from here.
+Vad berättaren kan iaktta, anta eller har fått veta. Allt läsaren får veta genom henne kommer härifrån.
 
-## What the reader should feel
+## Vad läsaren ska känna
 
-One line. Mood, not fact.
+En rad. Stämning, inte fakta.
 
-## Rules & constraints
+## Regler & ramar
 
-- Bullet list of non-negotiables. These must not be contradicted in prose without a bible update.
+- Punktlista med icke-förhandlingsbara regler. Dessa får inte motsägas i prosan utan en bibeluppdatering.
 
-## Open questions
+## Öppna frågor
 
-- Things still undecided. Move to `notes/open-questions.md` if they need discussion.
+- Saker som ännu inte avgjorts. Flytta till `notes/open-questions.md` om de behöver diskuteras.
