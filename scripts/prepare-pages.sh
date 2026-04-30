@@ -101,7 +101,7 @@ permalink: /chapters/
 
 # Chapters
 
-{% assign chapters = site.pages | where_exp: "page", "page.chapter and page.published == true" | sort: "chapter" %}
+{% assign chapters = site.pages | where_exp: "p", "p.chapter" | sort: "chapter" %}
 {% if chapters.size > 0 %}
 <div class="chapter-grid">
   {% for chapter in chapters %}
