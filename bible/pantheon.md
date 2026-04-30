@@ -28,7 +28,7 @@ Only gods relevant to the novella. Expand as needed.
 
 ## The sisters
 
-- **Stheno** and **Euryale** are immortal Gorgons, daughters of Phorcys and Ceto. They become monstrous with Medusa in solidarity, or they were always monstrous and simply revealed. We use the first reading. See their character sheets.
+- **Stheno** and **Euryale** are immortal Gorgons, daughters of Phorcys and Ceto. They were always monstrous in ways the world taught them to survive, and Medusa learns their forms before she learns to fear them. See their character sheets.
 
 ## Absent by design
 

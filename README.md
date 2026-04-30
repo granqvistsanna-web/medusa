@@ -24,3 +24,20 @@ See `CLAUDE.md` for house style and workflow. Common commands:
 - `/draft-scene <chapter> <beat>` — draft prose from an outline beat.
 - `/continuity-check [chapter]` — run the continuity-editor agent.
 - `/status` — word counts, chapter progress, open questions.
+
+## Publishing with GitHub Pages
+
+This repo includes a GitHub Pages workflow for a reader-facing book site.
+The site is staged by `scripts/prepare-pages.sh` from `synopsis.md` and
+chapters marked `published: true`; notes, templates, character sheets, and
+bible files stay out of the Pages build.
+
+On GitHub, set **Settings → Pages → Build and deployment → Source** to
+**GitHub Actions**. The workflow publishes on pushes to
+`claude/book-writing-workflow-UFzuf`, or manually from the Actions tab.
+
+To build the staged Pages source locally:
+
+```sh
+bash scripts/prepare-pages.sh ./_pages
+```

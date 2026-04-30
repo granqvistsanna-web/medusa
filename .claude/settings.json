@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(command -v meridian)",
+      "Bash(command -v mars)",
+      "Bash(gh run *)",
+      "Bash(git add *)"
+    ]
+  }
+}

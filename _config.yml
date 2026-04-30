@@ -1,0 +1,17 @@
+title: Medusa
+description: A novella-in-progress. Medusa's own account.
+url: "https://granqvistsanna-web.github.io"
+baseurl: "/medusa"
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - CLAUDE.md
+  - scripts/
+  - templates/

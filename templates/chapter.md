@@ -10,6 +10,7 @@ beats:
   -
 word_target: 1500
 status: draft
+published: false
 ---
 
 <!-- Before drafting:

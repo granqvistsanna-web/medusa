@@ -21,6 +21,7 @@ beats:
   - One direct sentence at the end
 word_target: 1600
 status: draft  # draft | revised | locked
+published: false  # true when this chapter should appear on the website
 ---
 ```
 
@@ -31,6 +32,10 @@ Then the prose.
 - `draft` — first pass. Continuity-check not yet run.
 - `revised` — prose editorially passed; continuity-check clean.
 - `locked` — touched only for typo fixes without agent approval.
+
+## Website publishing
+
+Set `published: true` in a chapter's frontmatter to include it in the static website generated under `_pages/`.
 
 ## Before locking
 
