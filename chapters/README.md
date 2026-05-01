@@ -8,7 +8,7 @@ Varje kapitelfil börjar med ett frontmatter-block:
 
 ```yaml
 ---
-chapter: 7
+chapter: 6
 title: Natten
 pov: Medusa
 tense: preteritum

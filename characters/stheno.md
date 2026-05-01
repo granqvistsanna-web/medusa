@@ -9,7 +9,7 @@
 - Korta meningar. Sällan flera satser i rad. Hon avbryter med ett "nej" eller ett "gör om" innan en mening hinner bli vek.
 - Retas med Medusa. Det är hennes form av ömhet.
 - Svär lågt, vid det hon känner till — havet, vinden, fars namn när hon är ensam. Inte vid gudar hon inte litar på.
-- Verbalt drag: upprepar sig själv när någon argumenterar. "Det var han." "Kanske." "Det var han." Hon ger inte efter genom att mjukna utan genom att tystna.
+- Verbalt drag: upprepar sig själv när någon argumenterar. Stheno: "Det var han." Mor: "Kanske." Stheno: "Det var han." Upprepningen är hennes; "Kanske" är inte hennes rad. Hon ger inte efter genom att mjukna utan genom att tystna.
 - Skrattar lätt och sällan. Skrattet är en överraskning att höra.
 
 ## Vill

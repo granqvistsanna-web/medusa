@@ -26,20 +26,24 @@ Beats som motsvarar kapitlet i `chapters/ch01-festen.md`:
 
 ## ch02 — Templet ✓ (skrivet)
 
-Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorberar tidigare ch02 (Vägen till templet) och tidigare ch03 (Tempelkvinnan); resan från fiskarhemmet är komprimerad till två meningar i öppningen.
+Beats motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorberar tidigare ch02 (Vägen till templet) och tidigare ch03 (Tempelkvinnan); resan från fiskarhemmet är komprimerad till två meningar i öppningen. Listan nedan är användarens override från 2026-04-30 och ersätter tidigare ch02-block.
 
-- Avresan — mor följer till vägens slut, vänder; Medusa går vidare ensam och vänder sig om först när modern försvunnit bakom kroken.
-- Ankomsten — gryningen, templet större inifrån än utifrån, doften av rök och något sött. Myrine i den inre gården: "Du är sen."
-- Gruppen — fyra flickor utöver Medusa: Phaedra äldst, Thea och Lykke som par, Io som kom i somras. Phaedra visar rummet. Medusa sjunger tredje rösten, "för det är vad som saknas".
-- Arbetet — sopa, skölja, bära. Myrines "Igen". Medusas insikt: hemma hängde sakerna ihop med mat eller mynt; här hängde de ihop med en gudinna hon aldrig sett.
-- Sångrepetition — Myrines "Öppna munnen". Phaedra efteråt: om hon inte säger något är det bra. "Hur vet man det?" "Man lär sig."
-- Hierarkin testad — tredje dagen, fel sida av krukan. Theas plats. Io efteråt: "Du ska alltid sitta sist. För att du kom sist." Medusa: "Det är inte rättvist." Io: "Nej."
-- Gråten — tredje natten. Hon hör havet som inte går att höra. Handflatan mot munnen tills det går över. På morgonen är allting som vanligt.
-- Myrine rättar — en kväll, på huk: "Du sjunger fel på den tredje raden." "Jag sjunger som Phaedra." "Phaedra sjunger fel. Men inte på samma ställe." Myrine sjunger raden. Det är allt.
-- Natten — månljus på stengolvet ser ut som vatten. Medusa väntar på att det ska röra sig. Det rör sig inte. Io: "Sluta titta på golvet. Det hjälper inte." (Första kropps/världs-glide; ska eskalera kapitel för kapitel.)
-- Slutbild — Medusa försöker minnas Sthenos hand om sin. De första dagarna går det bra, sedan sämre. Tillslut bara att den hade funnits. Pekare: nästa kapitel öppnar vid en ny tröskel; beslutet att skicka henne vidare har redan tagits över hennes huvud.
+- **Avresan.** Mor följer till vägens slut, vänder, går tillbaka. Medusa står kvar tills hon försvinner bakom stenhuset vid kroken; sedan vänder hon sig om. Märkena efter Sthenos fingrar och Euryales band bärs vidare som spår på kroppen. Öppnar i registret *"Det är inte sorg, det är ett faktum"* — lågmält, observerande, utan självömkan. Io sås in tidigt som någon som ser utan att kommentera (vaken eller låtsas sova).
+- **Ankomsten.** Gryningen. Templet större inifrån än utifrån, högt i tak, kallt i golv, doft av rök och något sött. Myrine väntar i den inre gården: "Solen är uppe." Hon menar något annat. Medusa byter om i det öppna; Myrines blick passerar henne som en kruka som behöver kontrolleras.
+- **Gruppen.** Fyra flickor utöver Medusa: Phaedra äldst, Thea och Lykke som alltid går ihop, Io som kom i somras. Phaedra visar rummet, viloplatsen längs väggen (inte vid fönstret), kroken, skålen. Medusa sjunger tredje rösten — "inte för att du är bra. För att den är tom." Io hälsar inte; talar till väggen, inte till Medusa.
+- **Arbetet.** Sopa gångar, skölja offerskålar, bära vatten till kar. Myrines "Igen". Medusas insikt: hemma hängde varje sak ihop med mat eller mynt; här hänger de ihop med en gudinna hon aldrig sett.
+- **Sångrepetition.** Myrines "Munnen." "Mer." Hon lyssnar med blicken på en punkt bakom Medusa, går vidare till Io utan att säga något. Phaedra efteråt: säger hon inget är det bra; det är när hon säger något du ska oroa dig. "Hur vet man det?" "Man lär sig."
+- **Hierarkin testad.** Tredje dagen, fel sida av krukan. Thea: "Det där är min." / "Det ser likadant ut som de andra." / "Min ändå." Phaedra ser. Medusa byter plats. Io efteråt: "Du sitter sist. Du kom sist." Medusa: "Det är inte rättvist." Io: "Nej." Hon säger inget mer; hon går ut.
+- **Gråten.** Tredje natten. De andra sover. Hon hör havet som inte går att höra härifrån. Handflatan mot munnen tills det går över. På morgonen är allting som vanligt.
+- **Myrine rättar.** En kväll, på huk framför Medusa: "Tredje raden är fel." "Jag sjunger som Phaedra." "Phaedra sjunger fel. Inte på samma ställe." Myrine sjunger raden lågt, utan ceremoni. Medusa efter henne. "Igen." "Bättre." Hon reser sig och går; det finns ingen dörr att stänga.
+- **Natten — golvet som vatten.** Månen kastar ett rakt ljusstreck längs stengolvet. Det ser ut som vatten. Medusa ligger stilla och väntar på att det ska röra sig. Det rör sig inte. Io vänder sig: "Sover du inte?" / "Stirra inte på golvet. Det hjälper inte. Jag har också tittat." Medusa vet inte om hon sover eller låtsas sova efteråt. *Första kropps/världs-glide; ska eskalera kapitel för kapitel — se act-structure.md.*
+- **Slutbild — Sthenos hand.** Medusa försöker minnas Sthenos hand om sin. Första dagarna går det bra: fyra fingrar över knogarna, tummen i handflatan, värmen som suttit kvar. Sedan sämre. Märkena har bleknat redan när hon kom; nu finns inte ens den ljusa konturen kvar. Tillslut bara en handled utan tyngd, en hand som inte minns vad den hållit. Pekare: nästa kapitel öppnar vid en ny tröskel; beslutet att skicka henne vidare har redan tagits över hennes huvud.
 
-## ch03 — Athen
+---
+
+*Allt nedan är **planerat**, inte committat. Beats kan flyttas, slås ihop eller skrivas om. Kapitel markeras ✓ när de är skrivna.*
+
+## ch03 — Athen (planerat)
 
 - Ankomsten i Athen. Trapporna, olivträdet, havet synligt nedanför.
 - Träbilden av Athena. Medusa knäböjer. Något sker — ett skifte i ljuset, eller ingenting.
@@ -47,7 +51,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - En äldre prästinna namnger henne. Det blir hennes namn i templet, inte hennes namn hemma.
 - Slutbild: Medusa bestämmer sig för att hon är hemma. Pekare: hon säger det till sig själv två gånger.
 
-## ch04 — Riterna
+## ch04 — Riterna (planerat)
 
 - År i templet, komprimerat genom återkommande gester (hälla olja, vika linne, släcka och tända).
 - Vänskapen fördjupas. En scen som visar glädje utan att namnge den.
@@ -55,7 +59,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - En känsla av att bli betraktad. Hon tolkar det som hängivelse. Texten tillåter läsaren se vad hon inte ser.
 - Slutbild: lampan brinner ovanligt långt en kväll. Pekare: Medusa stannar kvar med den.
 
-## ch05 — Brevet hem
+## ch05 — Brevet hem (planerat)
 
 - Bud kommer från fiskarhemmet, eller Medusa skickar bud. En liten vecka av två platser.
 - Vad systrarna har blivit i Medusas frånvaro — sagt genom andras ord, inte sett. Beats håller systrarnas form öppen (se akt-strukturens öppna beslut).
@@ -64,7 +68,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - En liten skuld i henne. Hon låter den vara liten.
 - Slutbild: hon viker ihop budet. Pekare: hon lägger det inte i sin kista.
 
-## ch06 — Natten
+## ch06 — Natten (planerat)
 
 - Elliptisk. Fragment. Lamporna. Olivträdet.
 - Lukten av bräcka i ett tempel där inget hav borde nå.
@@ -73,7 +77,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - Beskriv inte kroppen.
 - Pekare: ljuset i östra fönstret.
 
-## ch07 — Förbannelsen
+## ch07 — Förbannelsen (planerat)
 
 - Gryning. Athenas närvaro framför hennes ansikte. Prästinnorna borta.
 - Förbannelsen som språk: Athena talar den. Medusa känner sitt hår röra sig innan hon rör vid det.
@@ -81,7 +85,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - En gest som ekar handleden i ch01: någon greppar henne, eller hon greppar sig själv, eller hennes hand minns.
 - Slutbild: hennes hand är fortfarande hennes hand. Pekare: hon ropar inte på sina systrar. De kommer ändå.
 
-## ch08 — Resan västerut
+## ch08 — Resan västerut (planerat)
 
 - Systrarna anländer. De frågar inget. *Hur* de kommer hålls tonalt: beats anger inte ännu om de är som hemma, eller förändrade. Beslutet fattas i revisionen och skrivs in här.
 - Dagar och nätter över vatten. Medusa med ögonbindel. Hennes systrars händer vid hennes axlar — beskrivna genom tyngd och temperatur, inte form.
@@ -89,7 +93,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - Grottan, första anblicken. Euryale: "Vi har varit här förut" — eller en motsvarande rad som lämnar frågan vagt öppen.
 - Slutbild: Medusa går in. Pekare: ljudet från havet är annorlunda härifrån. Detta ljud bär in i ramens presens.
 
-## ch09 — Grottan, åren
+## ch09 — Grottan, åren (planerat — första presensramen)
 
 - *Första presens i boken.* Den äldre Medusa tar över berättandet. Etablera att vi är hos henne nu, i grottan, och att resten kommer härifrån.
 - En kalender av hjältar, komprimerat. Reglerna för förbannelsen: män blir sten, kvinnor inte, gudar inte, djur ja.
@@ -98,7 +102,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - En inre vändning: Medusa börjar se förbannelsen som en dörr hon kan stå i.
 - Slutbild: en av statyerna får ett namn. Pekare: nästa kapitel är hans.
 
-## ch10 — En hjälte
+## ch10 — En hjälte (planerat)
 
 - En namngiven man, mer utvecklad än de andra. Vad han ville. Hur han kom.
 - En scen där han talar och hon låter honom tala. Han ser henne inte.
@@ -106,7 +110,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - Hon behåller honom vid grottans mynning. Först som varning. Senare som sällskap.
 - Slutbild: havet låter annorlunda nästa morgon. Pekare: ett ljud som inte är riktigt rätt.
 
-## ch11 — Sandalerna
+## ch11 — Sandalerna (planerat)
 
 - Presens. Medusa hör vingslagen ovanför stranden.
 - Euryale slutar sjunga mitt i en rad. Stheno slipar en kniv hon inte ska använda.
@@ -114,7 +118,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - Hon går ut till grottans mynning och väntar.
 - Slutbild: en skugga över sanden. Pekare: skuggan är polerad.
 
-## ch12 — Perseus
+## ch12 — Perseus (planerat)
 
 - Han kommer in med skölden. Han ser inte direkt på henne. Hon låter honom inte.
 - Ett kort utbyte. Mest gester. Han säger något lärt utantill. Hon svarar inte på det han väntade.
@@ -123,7 +127,7 @@ Beats som motsvarar kapitlet i `chapters/ch02-templet.md`. Detta kapitel absorbe
 - Medusas val: hon sluter sina egna ögon. Hon ska inte låta honom döda något ryggande.
 - Slutbild: mörker på hennes sida av ögonlocken. Pekare: en mening lång nog att bära in i sista kapitlet.
 
-## ch13 — Slutet
+## ch13 — Slutet (planerat)
 
 - En sida. Medusas sista meningar.
 - Bladets ljud står inte på sidan.

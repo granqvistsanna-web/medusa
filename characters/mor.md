@@ -11,7 +11,7 @@
 - Få ord. Korta svar. Säger inte mer än hon måste.
 - Använder rena satser. "Det finns inga lätta saker." "Vi går nu." "Då vet du varför du stannar."
 - Pruta-rytm: tre repliker fram och tillbaka, sedan ett slut. "Då kostar den mindre." "Inte så mycket mindre." "Då är vi överens."
-- Verbalt drag: säger "kanske" där hon vet svaret. "Det var han." "Kanske." "Det var han." "Kanske." Hon vägrar att namnge det hon inte vill bygga sitt hushåll inuti.
+- Verbalt drag: säger "kanske" där hon vet svaret. Stheno: "Det var han." Mor: "Kanske." Stheno: "Det var han." Mor: "Och nu har vi inga nät." När upprepningen inte räcker bryter hon ut åt sidan i stället för att medge. Hon vägrar att namnge det hon inte vill bygga sitt hushåll inuti.
 - Skrattar en gång, kort, vid ordet "skydd". Det är inget skratt.
 
 ## Vill

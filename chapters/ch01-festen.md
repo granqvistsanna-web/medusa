@@ -14,7 +14,7 @@ beats:
   - Stheno håller Medusas hand i sömnen så hårt att märken syns; mor avgör att Medusa ska gå
 word_target: 5000
 status: utkast
-published: true
+published: false
 ---
 
 ## Kapitel 1
@@ -61,7 +61,7 @@ Stheno såg inte på henne.
 
 — Då kan hon lära sig rätt.
 
-Mor satt vid dörren och rensade fisk. Hon räknade fångsten, lade den åt sidan, räknade igen. På bordet inne låg mynten. Jag hade sett dem. Mor delade dem i två högar. Sedan lade hon ihop dem igen.
+Mor satt vid dörren och rensade fisk. Hon räknade fångsten, lade den åt sidan, räknade igen. Det var fångsten som var pengarna. Mynt sågs bara på torget, och bara om Menon kom ihåg att betala.
 
 Stheno frågade:
 
@@ -137,7 +137,7 @@ Vid porten stod soldater. En av dem kände mor.
 
 — Fisken kom sent.
 
-Han skrattade och lutade sig för att se ner i korgen. Sedan såg han på mig. Hans blick stannade. Stheno ställde sig närmare.
+Han skrattade och lutade sig för att se ner i korgen. Sedan såg han på mig. Hans blick stannade. Stheno gick förbi mig utan ett ord och ställde sig bakom min rygg.
 
 — Är det den yngsta? frågade han.
 
@@ -235,11 +235,11 @@ Han såg inte på mor.
 
 — Vad heter du?
 
-Jag svarade inte. Han tryckte lätt med tummen mot min handled. Jag tittade på mina fingrar. De höll ingenting, men jag kunde inte öppna dem.
+Jag svarade inte. Han tryckte lätt med tummen mot min handled. Jag tittade på mina fingrar. De höll ingenting, men jag kunde inte öppna dem. En stund var det som om handen tillhörde någon annan.
 
 Stheno slog bort hans hand.
 
-Det var ingen stor rörelse. Mynten föll på marken. Bröd-kvinnan bredvid oss slutade lägga bröd i en korg. Lök-mannen tittade åt ett annat håll.
+Det var ingen stor rörelse. Mynten föll på marken. Kvinnan bredvid oss höll en brödlimpa över sin korg och lade den inte i. Mannen med lökarna vände sig om mot sin egen vägg.
 
 Mannen såg på Stheno.
 
@@ -511,4 +511,8 @@ Stheno tog min hand. Hon höll den hårt. Jag tänkte på mannen, på hur mina f
 
 Jag somnade med Sthenos hand om min.
 
-På morgonen hade jag märken efter hennes fingrar. Inte efter hans. Då sade mor att jag skulle gå.
+På morgonen hade jag märken efter hennes fingrar. Inte efter hans.
+
+Mor stod i dörren och såg på min handled. Sedan sade hon:
+
+— Du ska gå.
